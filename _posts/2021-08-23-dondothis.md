@@ -56,5 +56,13 @@ Flutter는 무엇보다도 UI 툴킷입니다. 따라서 Flutter를 사용하여
 
 ## 7. pub.dev에 하나 이상의 패키지 게시
 
-이렇게 하면 자신의 패키지를 게시하는 방법을 이해하는 데 도움이 됩니다. 또한 다른 패키지가 어떻게 작동하는지 이해하게 됩니다. `AnimatedButton` 같은 간단한 UI 패키지를 게시할 수도 있습니다. 그러나 자신의 패키지를 게시하면 패키지를 관리하는 방법, 새로운 변경 사항에 따라 버전을 관리하는 방법, GitHub에서 문제를 처리하고 요청을 가져오는 방법 등을 이해할 수 있습니다.
+이렇게 하면 자신의 패키지를 게시하는 방법을 이해하는 데 도움이 됩니다. 또한 다른 패키지가 어떻게 작동하는지 이해하게 됩니다. `AnimatedButton` 같은 간단한 UI 패키지를 게시할 수도 있습니다. 그러나 자신의 패키지를 게시하면 패키지를 관리하는 방법, 새로운 변경 사항에 따라 버전을 관리하는 방법, GitHub에서 문제를 처리하고 요청을 가져오는 방법 등을 이해할 수 있습니다.  
 
+  
+  
+  
+---
+**원저자 및 출처:**  
+[Abhishek Doshi](https://abhishekdoshi26.medium.com/?source=post_page-----2bb35b658f7e--------------------------------)  
+[Don’t do this mistake while learning Flutter!](https://abhishekdoshi26.medium.com/dont-do-this-mistake-while-learning-flutter-2bb35b658f7e)  
+---
