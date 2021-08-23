@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "ENOOSOFT"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "EnooSoft"
+name                     : "ENOO"
 description              : "취미로 앱 개발하는 직장인입니다"
 url                      : "https://enoosoft.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,13 +95,13 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 'G-XM5R1P8EW3'
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "EnooSoft"
+  name             : "ENOO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "취미로 앱 개발하는 직장인입니다"
   location         : "Seoul, KR"
