@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Flutter를 배울때 하지 말하야 할 실수들"
+title:  "Flutter를 배울때 하지 말아야 할 실수들"
 ---
 
 Flutter는 훌륭한 기술입니다. 이제 막 Flutter를 배우기 할때 사람들이 저지르는 몇 가지 주요 실수를 살펴봅시다.
