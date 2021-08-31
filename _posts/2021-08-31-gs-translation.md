@@ -17,7 +17,7 @@ git clone "https://github.com/enoosoft/gs_translation.git"
 
 그리고 아래와 같이 구글 번역 시트 문서를 만듭니다.
 
-![](./doc/images/gstr_sample.png)
+![](../assets/images/2021-08-31-gstr_sample.png)
 
 [샘플시트](https://docs.google.com/spreadsheets/d/1bnsfTv6ORtWLUEvkgmnvey6qNi_pGdpFapTQQd5UZss/edit#gid=0) 를 복사하여 만들면 됩니다. Google 시트를 사용하면 간단한 수식으로 필드를 번역할 수 있습니다. `=GOOGLETRANSLATE(B4,en,ko)` 필드 `B4`의 문구를 영어(`en`)에서 한국어(`ko`)로 번역할 수 있습니다. 
 
