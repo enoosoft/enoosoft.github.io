@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: GetX Google Sheets 번역코드 생성기
 ---
 
